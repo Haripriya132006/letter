@@ -110,6 +110,7 @@ html,
   }
 
   @media (max-width: 700px){
+
     .letter {
     height: 50%;
     width: 50%; 
@@ -135,4 +136,32 @@ html,
     /* z-index: 100;  */
 
   }
+  }
+  @media(max-width:370px){
+
+    .letter {
+      height: 30%;
+      width: 90%; 
+    }
+
+    .cover {
+      height: 21%;
+      margin-bottom: 90%;
+    }
+    .page{
+      height: 30%;
+      width: 70%;
+    }
+    .front1 ,.back1{
+      max-height: 30%;
+      max-width: 70%;
+    }
+    button{
+
+      margin-top: -30%;
+      width: 30%;
+      height: 8%;
+
+  
+    }
   }

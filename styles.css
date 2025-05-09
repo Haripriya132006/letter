@@ -166,15 +166,15 @@ html,
     }
   }
   
-  @media(max-width:360px){
+  @media(max-width:380px){
     .letter {
       height: 40%;
-      width: 100%; 
+      width: 110%; 
     }
 
     .cover {
       height: 28%;
-      margin-bottom: 100%;
+      margin-bottom: 110%;
     }
     .page{
       height: 30%;
@@ -189,7 +189,6 @@ html,
       margin-top: -80%;
       width: 20%;
       height: 6%;
-
-  
     }
   }
+ 
